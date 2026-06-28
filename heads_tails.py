@@ -7,7 +7,7 @@ window.title('Choosing Heads or Tails')
 window.geometry('400x300')
 
 label = tk.Label(window, 
-                 text='Heads or Tails ?')
+                 text='Heads or Tails ❓')
 label.pack()
 
 result = tk.Label(window, 
